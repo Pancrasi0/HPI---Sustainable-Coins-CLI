@@ -1,3 +1,5 @@
+package Entities;
+
 public class Activity {
 
     private String name;
