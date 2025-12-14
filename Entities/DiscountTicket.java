@@ -1,4 +1,4 @@
-package Entidades;
+package Entities;
 
 public class DiscountTicket {
 
@@ -43,3 +43,4 @@ public class DiscountTicket {
         return company + " - " + description + " (" + requiredPoints + " pts)";
     }
 }
+
