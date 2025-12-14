@@ -1,4 +1,4 @@
-package Entidades;
+package Entities;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -27,3 +27,4 @@ public class AuthManager {
         return null;
     }
 }
+
