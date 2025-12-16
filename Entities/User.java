@@ -61,7 +61,4 @@ public class User {
     public String toString() {
         return name + " - Points: " + points;
     }
-    public String getUsername() {
-        return name;
-    }
 }
